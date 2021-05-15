@@ -12,3 +12,12 @@ pilih versi portable untuk memudahkan proses installasi. Kemudian extract file t
 
 # Menjalankan Web Server 
 Untuk menjalankan web server dari menu XAMPP Control.
+
+Foto
+
+Uji coba apakah server sudah berkerja dengan baik http://127.0.0.1 atau http://localhost Tampil halaman utama XAMPP jika server sudah berkerja dengan baik. • Dokumen Website Semua file website tempatkan di direktori: \xampp\htdocs
+• Database MySQL Direktori: \xampp\mysql
+Manajemen database: http://localhost/phpmyadmin
+
+# Memulai PHP 
+Buat folder lab7_php_dasar pada root directory web server (d:\xampp\htdocs)
