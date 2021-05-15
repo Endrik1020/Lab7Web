@@ -25,8 +25,8 @@ Buat folder lab7_php_dasar pada root directory web server (d:\xampp\htdocs)
 
 
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: http://localhost/lab7_php_dasar/
+![Screenshot_20210515-130030_Chrome](https://user-images.githubusercontent.com/81820421/118349887-a9d85a80-b57d-11eb-9c14-f5feadc23b61.jpg)
 
-Foto 
 
 # PHP Dasar 
 
@@ -48,11 +48,13 @@ Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat 
 ~~~
 Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7_php_dasar/php_dasar.php
 
-Foto
+![Screenshot_20210515-130259_Chrome](https://user-images.githubusercontent.com/81820421/118349921-ed32c900-b57d-11eb-8a34-0fc63019dd4b.jpg)
+
 # Variabel PHP 
 Menambahkan variable pada program.
 
-Foto
+![Screenshot_20210515-130403_Chrome](https://user-images.githubusercontent.com/81820421/118349948-0fc4e200-b57e-11eb-9ac3-0c5765c6d3be.jpg)
+
 # Predefine variabel Get $
 ~~~
 <h2>Predefine Variable</h2>
@@ -61,7 +63,8 @@ Foto
     ?>
 ~~~
 
-Foto 
+![20210515_130745](https://user-images.githubusercontent.com/81820421/118350010-9974af80-b57e-11eb-9c2e-05ef01338fa7.jpg)
+
 
 # Membuat Form Input 
 ~~~
@@ -85,7 +88,8 @@ Foto
 </html>
 ~~~
 
-Foto
+![Screenshot_20210515-130901_Chrome](https://user-images.githubusercontent.com/81820421/118350039-be692280-b57e-11eb-827e-19cc825cd2ad.jpg)
+
 
 # Operator 
 ~~~ 
@@ -100,7 +104,8 @@ Foto
 
 ~~~ 
 
-Foto
+![20210515_131230](https://user-images.githubusercontent.com/81820421/118350184-8c0bf500-b57f-11eb-9ffa-d5e459792e93.jpg
+
 
 # Kondisi IF 
 ~~~
@@ -117,7 +122,7 @@ Foto
     ?>
 ~~~
 
-Foto
+
 
 # Kondisi switch 
 ~~~
