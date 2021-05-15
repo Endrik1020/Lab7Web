@@ -87,8 +87,8 @@ Menambahkan variable pada program.
     </body>
 </html>
 ~~~
+![20210515_132426](https://user-images.githubusercontent.com/81820421/118350455-f709fb80-b580-11eb-8ab9-afae80afe6b3.jpg)
 
-![Screenshot_20210515-130901_Chrome](https://user-images.githubusercontent.com/81820421/118350039-be692280-b57e-11eb-827e-19cc825cd2ad.jpg)
 
 
 # Operator 
@@ -104,7 +104,8 @@ Menambahkan variable pada program.
 
 ~~~ 
 
-![20210515_131230](https://user-images.githubusercontent.com/81820421/118350184-8c0bf500-b57f-11eb-9ffa-d5e459792e93.jpg
+![20210515_132642](https://user-images.githubusercontent.com/81820421/118350504-4a7c4980-b581-11eb-8e58-ab5f17d0a08f.jpg)
+
 
 
 # Kondisi IF 
@@ -144,8 +145,8 @@ Menambahkan variable pada program.
             }
     ?>
 ~~~
+![20210515_132838](https://user-images.githubusercontent.com/81820421/118350545-90391200-b581-11eb-9b27-0630bdee511a.jpg)
 
-Foto 
 # Kondisi perulangan For 
 ~~~ 
 <h2>Perulangan For</h2>
@@ -161,7 +162,8 @@ Foto
     ?>
 ~~~
 
-Foto
+![20210515_133151](https://user-images.githubusercontent.com/81820421/118350646-21a88400-b582-11eb-86ff-326c64ce22a7.jpg)
+
 
 # Perulangan While 
 
@@ -192,7 +194,8 @@ Foto
             } while ($i<=10);
     ?>
 ~~~
-Foto
+![Screenshot_20210515-133359_Chrome](https://user-images.githubusercontent.com/81820421/118350674-46046080-b582-11eb-8cff-82722b46ee81.jpg)
+
 
 # Pertanyaan dan Tugas 
 Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.
@@ -250,7 +253,8 @@ Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nam
     ?>
 ~~~
 
-Foto 
+![20210515_133614](https://user-images.githubusercontent.com/81820421/118350746-a85d6100-b582-11eb-970f-378a87c5a078.jpg)
+
 
 
 
