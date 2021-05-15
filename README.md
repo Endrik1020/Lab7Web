@@ -21,7 +21,8 @@ Manajemen database: http://localhost/phpmyadmin
 
 # Memulai PHP 
 Buat folder lab7_php_dasar pada root directory web server (d:\xampp\htdocs)
-Foto 
+![Screenshot_20210515-121005_Chrome](https://user-images.githubusercontent.com/81820421/118348769-a4c3dd00-b576-11eb-8b2c-8551dfff060b.jpg)
+
 
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: http://localhost/lab7_php_dasar/
 
