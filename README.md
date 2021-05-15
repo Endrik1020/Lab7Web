@@ -12,8 +12,8 @@ pilih versi portable untuk memudahkan proses installasi. Kemudian extract file t
 
 # Menjalankan Web Server 
 Untuk menjalankan web server dari menu XAMPP Control.
+![Screenshot_20210515-061020_Chrome](https://user-images.githubusercontent.com/81820421/118347702-637bff00-b56f-11eb-8c86-e8a75ded4879.jpg)
 
-Foto
 
 Uji coba apakah server sudah berkerja dengan baik http://127.0.0.1 atau http://localhost Tampil halaman utama XAMPP jika server sudah berkerja dengan baik. • Dokumen Website Semua file website tempatkan di direktori: \xampp\htdocs
 • Database MySQL Direktori: \xampp\mysql
