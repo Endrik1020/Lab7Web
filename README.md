@@ -122,6 +122,7 @@ Menambahkan variable pada program.
         }
     ?>
 ~~~
+![20210515_134547](https://user-images.githubusercontent.com/81820421/118351064-f32ba880-b583-11eb-86b2-8d39dc66e300.jpg)
 
 
 
@@ -179,7 +180,8 @@ Menambahkan variable pada program.
     ?>
 ~~~
 
-Foto 
+![Screenshot_20210515-134122_Chrome](https://user-images.githubusercontent.com/81820421/118350942-58cb6500-b583-11eb-96eb-9b553744a36c.jpg)
+
 
 # Perulangan Dowhile
 ~~~
